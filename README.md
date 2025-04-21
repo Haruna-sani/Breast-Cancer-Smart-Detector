@@ -1,8 +1,4 @@
-Here's your complete **GitHub README** file in Markdown format, combining all the details—project purpose, data source, model architecture, data processing, training, and results.
 
----
-
-```markdown
 # 🧠 Breast Cancer Detection Using CNN on Ultrasound Images
 
 This repository presents a **Convolutional Neural Network (CNN)** model developed to classify **breast ultrasound images** into two categories: **Benign** and **Malignant**. The goal is to aid in the early detection of breast cancer using deep learning techniques.
